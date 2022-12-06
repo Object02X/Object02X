@@ -1,5 +1,24 @@
-### <p align="center">👀 &nbsp;Visitors</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Object02X/count.svg" />
-</p>
+```py 
+class Avalance(Programming):
+      def Hobbies():
+          return "Exploiting"
+          return "Developing"
+          return "Gambling Money"
+          
+      def Socials():
+          Discord = return None
+          Guilded = return None
+      
+      class Acheivements:
+            def Discord():
+                return None
+                
+            def Guilded():
+                return None
+                return None
+            
+            def YouTube():
+                return "Youtube Subbot"
+                return "YouTube's Recognition"
+```
+![avalanche github stats](https://github-readme-stats.vercel.app/api?username=avalanchediscord&show_icons=true&theme=dracula)
